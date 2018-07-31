@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/com.marvelwall.ahmedpc.clinicalguidelines"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".fragments.FeverFragment">
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="50dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/bg_linear"
+                android:orientation="vertical">
+
+                <com.jaredrummler.materialspinner.MaterialSpinner
+                    android:id="@+id/spinner_bacterial"
+                    style="@style/Widget.AppCompat.Light.DropDownItem.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="40dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:textAlignment="center"
+                    android:textColor="#262626"
+
+                    android:textColorHint="#9b9b9b"
+                     android:textSize="16sp"
+
+                    app:ms_arrowSize="10dp"
+                     app:ms_enableErrorLabel="false"
+                    app:ms_enableFloatingLabel="false"
+                    app:ms_hintColor="#9b9b9b"
+                    app:ms_multiline="false"
+                     app:ms_background_color="#fff"
+
+                    />
+                <com.jaredrummler.materialspinner.MaterialSpinner
+                    android:id="@+id/spinner_meningitis"
+                    style="@style/Widget.AppCompat.Light.DropDownItem.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:textAlignment="center"
+                    android:textColor="#262626"
+
+                    android:textColorHint="#9b9b9b"
+                     android:textSize="16sp"
+
+                    app:ms_arrowSize="10dp"
+                    app:ms_enableErrorLabel="false"
+                    app:ms_enableFloatingLabel="false"
+                    app:ms_hintColor="#9b9b9b"
+                    app:ms_multiline="false"
+                    app:ms_background_color="#fff"
+                    />
+                <com.jaredrummler.materialspinner.MaterialSpinner
+                    android:id="@+id/spinner_streptococcus"
+                    style="@style/Widget.AppCompat.Light.DropDownItem.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:textAlignment="center"
+                    android:textColor="#262626"
+
+                    android:textColorHint="#9b9b9b"
+                     android:textSize="16sp"
+
+                    app:ms_arrowSize="10dp"
+                    app:ms_enableErrorLabel="false"
+                    app:ms_enableFloatingLabel="false"
+                    app:ms_hintColor="#9b9b9b"
+                    app:ms_multiline="false"
+                    app:ms_background_color="#fff"
+                    />
+                <com.jaredrummler.materialspinner.MaterialSpinner
+                    android:id="@+id/spinner_adult"
+                    style="@style/Widget.AppCompat.Light.DropDownItem.Spinner"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:textAlignment="center"
+                    android:textColor="#262626"
+
+                    android:textColorHint="#9b9b9b"
+                     android:textSize="16sp"
+
+                    app:ms_arrowSize="10dp"
+                    app:ms_enableErrorLabel="false"
+                    app:ms_enableFloatingLabel="false"
+                    app:ms_hintColor="#9b9b9b"
+                    app:ms_multiline="false"
+                    app:ms_background_color="#fff"
+                    />
+
+                <TextView
+                    android:id="@+id/examination"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:background="@drawable/tv_bg"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="20dp"
+                    android:textSize="17sp"
+                    android:textColor="#000"
+                    android:textStyle="normal"
+                    android:padding="10dp"
+                    />
+
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="160dp"
+                android:layout_height="35dp"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginRight="20dp"
+                android:background="@drawable/fever_bg"
+                android:gravity="center"
+                android:text="Management wizard"
+                android:textColor="#fff"
+                android:textSize="15sp"
+                android:textStyle="normal" />
+
+            <ImageView
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:src="@drawable/wizard" />
+        </RelativeLayout>
+
+</LinearLayout>

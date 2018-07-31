@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:icon="@drawable/home"
+            android:id="@+id/home"
+            android:title="Home "
+            />
+
+        <item
+            android:icon="@drawable/sear"
+            android:title="Search "
+            />
+        <item
+            android:icon="@drawable/mangment"
+            android:id="@+id/management"
+            android:title="Management wizard" />
+        <item
+            android:id="@+id/report_case"
+            android:icon="@drawable/report_case"
+            android:title="Report case" />
+        <item
+            android:id="@+id/foreward_preface"
+            android:title="Foreword &amp; preface"
+            android:icon="@drawable/forward"
+            />
+
+        <item
+            android:id="@+id/about"
+            android:title="About"
+            android:icon="@drawable/about"
+            />
+        <item
+            android:icon="@drawable/share"
+            android:title="Share" />
+
+        <item
+            android:icon="@drawable/call"
+            android:title="Contact Us" />
+
+
+    </group>
+
+
+
+</menu>

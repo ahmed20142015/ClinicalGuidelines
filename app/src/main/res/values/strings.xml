@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">ClinicalGuidelines</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="forward_one">This is the first release of clinical guidelines of management
+of infectious diseases as an initial step towards
+unification to a comprehensive handling and dealing with
+infectious disease we meet it in our fever hospitals.
+Fever hospitals in Egypt are greatly credible and
+trusted by the Egyptian people, due to presence of skilled
+health care professionals who are experts in dealing with
+infectious diseases. There are 47 specialized fever hospitals
+in Egypt, distributed all over the country and covering
+different governorates.
+In the last few years, we added new services to fever
+hospitals such as intensive care units, viral hepatitis
+treatment clinics, and a state of art renal dialysis units for
+people living with blood borne pathogens.
+One of the most important aspects of development is to
+invest in human resources, so we introduce the first unified
+protocol for all fever hospitals to Egyptian health
+care workers helping them to deal with various infectious
+diseases.
+</string>
+
+    <string name="forward_two">It is a privilege to introduce this protocol as the first
+guidelines of management of the infectious diseases.
+This protocol was prepared by my colleagues in general
+directorate of fever hospitals and my colleagues
+in fever hospitals.
+Development of this protocol based on integrated
+approach mixing experiences from different stakeholders
+from fever hospitals experts, university and
+preventive sector.
+We will work with all fever hospitals to disseminate
+this standardized guidelines aiming to implement the
+evidence based medicine in dealing with infectious
+cases. Our main goal is to provide comprehensive
+medical service to our patients.
+</string>
+
+
+    <string name="forward_thee">It is a pleasure to introduce the first eddition of the
+clinical guidelines of management of infectious
+dieases, a great effort presented by my colleagues in
+GDFH and the participant experts.
+I hope it will be a fruitfull step towards a unified
+protocol to be followed by health care workers in all
+Egyptian fever hospitals.
+</string>
+
+    <string name="preface_one">The general directorate of fever hospitals (GDOFH)
+is pleased to thank all efforts exerted in compiling,
+discussing, reviewing and disseminating these clinical
+guidelines, and I like to introduce thanks to all
+staff who supported developing these guidlines and
+also special thanks to my colleagues in (GDOFH)
+specially Dr / Abd Elrahman Farag Abou Shahat,
+Dr / Hamdy Mohamed Ibrahim, Dr/Sayed Hasan Elkashef
+for their extreme efforts in these guidelines.
+Our aim is to standardize the service provided at
+all fever hospitals on evidence based medicine, this
+work has been formulated in a simplified, comprehensive
+and to some extent a hand sized summary.
+Topics are displayed by definition, with caution to
+case definitions (Suspected, probable, confirmed )
+modes of transmission, clinical picture and management.
+This handbook is a summary of common infectious
+diseases that will serve as pocket guidelines for easy
+access of health care workers during their daily work.
+We tried to avoid the differences of views and disputes,
+and present the evidence based medicine.
+</string>
+
+    <string name="acknowledgement">We would like to acknowledge the contributions of
+experts who provided invaluable inputs and support;
+we also acknowledge the role of the World Health
+Organization for their valuable time and assistance.
+Special thanks to the support provided by Prof
+Dr. Ahmed Emad El Deen Rady Minister of Health
+and Population, Dr. Amr Kandeel, Head of preventive
+sector and Dr. Alaa Eid, Undersecretary for preventive
+affairs for their support and committement in
+achieving this work. We’d like to thank Alexandria
+and Qena fever hospitals as we used their local protocols
+as a pilot model.
+Extended appreciation to all members of General Directorate
+of Fever Hospitals who worked very hard to
+support development of this product.
+</string>
+    <string name="fever">temperature above the normal range due to an increase in
+the body temperature due to set point elevation (usually considered
+if it reaches or exceeds 38 °C)."\n""\n"
+Normal range (36.5–37.5 °C) depends upon the age, exertion,
+infection, sex, time of the day, reproductive status of the subject
+and methods &amp; time of measurement.
+</string>
+
+    <string name="types">1-Continuous fever: Temperature remains above normal
+throughout the day and does not fluctuate more than 1°C in 24
+hours e.g. lobar pneumonia, typhoid fever."\n"2- Remittent fever: Temperature fluctuates more than 1°C in 24
+hours but doesn’t reach to normal level e.g., infective endocarditis,
+brucellosis."\n"3- Intermittent fever: temperature fluctuates more than 1°C in
+24 hours and drops to normal level, e.g. malaria, pyaemia, or
+septicemia."\n"4- Relapsing:Waxes &amp; Wanes cyclically."\n"5- Hyperpyrexia: hyperpyrexia is an extreme elevation of body
+temperature greater than or equal to 41.5°C .
+</string>
+    <string name="common_causes">1- Infections: bacterial, viral, fungal, parasitic, etc….."\n"2- Collagen diseases."\n"3- Drug fever: e.g ( Penicillin - Cephalosporins - Sulphonamides
+- Phenytoin-Antihistamines - Aspirin - Theophylline intoxication
+- Anticholinergics)"\n"4. Immunization reactions"\n"5. Inflammatory disorders
+</string>
+    <string name="other_causes">1- Tissue injury or infarction"\n"2- Malignancy"\n"3- Heat illness"\n"4- Allergic reactions"\n"5- Thyrotoxicosis
+</string>
+
+    <string name="other_causes2">6- Hypothalamic injury"\n"7- Hyperactivity, seizers or vigorous exercise"\n"8- Neuroleptic malignant syndrome"\n"9- Malignant hyperthermia"\n"10- Factitious fever [Self-induced fever ]
+</string>
+
+    <string name="mechanism">(1) Changing the setpoint in the anterior hypothalamus by the
+effect of immune system stimulation through series of reactions
+like [infections, autoimmune reaction, malignancy, drugs, etc…]
+</string>
+
+    <string name="mechanism2">(2) Direct effect of some drugs like cocaine and phenothiazines
+and in some people dopamine antagonists."\n"(3) Dopamine level affects directly the center as occurs in neuroleptic malignant syndrome.
+</string>
+    <string name="neuroleptic">Occurs due to idiosyncrasy or overdose of certain drugs like
+haloperidol [safenase] &amp; phenothiazines [e.g. chlorpromazine],
+it causes lead- pipe rigidity, dystonic movements and tremors of
+extra pyramidal origin followed by rise in body temperature that
+may lead to hyperthermia, Stupor or coma.
+Also dopamine level decreases in the hypothalamus as mechanism
+of hyperthermia."\n"(4) Other medications can affect centrally the heat regulating
+center like serotonin reuptake inhibitors"\n"(5) CAMP &amp; Na / Ca ion ratio may play a rule.
+</string>
+    <string name="malignant">Disorder of the skeletal muscles in congenitally susceptible persons,
+initiated by halogenated inhalation anesthesia or depolarizing
+agents like succenylcholine leading to generalized muscle
+contraction due to increased Ca influx. The sustained muscle
+rigidity leads to fever and hyperthermia."\n"(6) Disturbance of heat loss mechanism as in heat illness.
+Adaptive value of fever: fever has an effect on the organisms
+and host defense mechanisms leading to survival of the host.
+</string>
+    <string name="bacteria">Decreases the growth of some bacteria e.g. gonococci is killed at
+40 – 41°C. In the past, typhoid vaccine was used in the treatment
+of gonococcal infection. It inhibits the growth of some strains of
+pneumococci at temperature around 40 °C. Spirochetes responsible
+for neurosyphilis are killed at high temp. [41 °C].
+In India, it was noticed that neurosyphilis was less in malarious
+areas may be due to this reason.
+</string>
+    <string name="viruses">It inhibits the growth &amp; activity of some viruses like polio –
+virus in tissues culture and activates others like herpes simplex
+virus.
+</string>
+    <string name="effect">- Enhancement of the functions and process of the immune system
+dealing with infection, autoimmune reaction and tumor cells."\n"- Increases the phagocytic activity of the leucocytes and its
+movements."\n"- Temperature of (38 °C – 39 °C) increases proliferation and
+transport of lymphocytes in response to various types of antigens."\n"- Increases the production of interferons."\n"- The lysosomal membrane in the tumor cells is sensitive to heat,
+so fever causes rupture of the lysosomes leading to auto digestion
+of the cells. The same happens in the cells infected with
+viruses."\n"- It increases the sensitivity of tumor cells to chemotherapy. So
+by heat we can decrease the dose and avoid side effects."\n"- It increases the sensitivity of the organisms to antibiotics. So it
+is more than a symptom of serious disease.
+</string>
+    <string name="requirement">1- Plenty of fluids either oral or parenteral to maintain water and
+electrolyte balance."\n"2- Highly nutritious, easily digestible diet to face the increased
+demands of energy production and cover the needs of immune
+system."\n"3- Rest, physical and mental."\n"4- Keeping the temperature below the lethal level."\n"5- Quick diagnosis &amp;  proper therapy."\n"6- Reassurance &amp;  information about his illness
+</string>
+    <string name="splash">Fever &amp; Infectious diseases"\n"  Recommendations"\n"  Smart Tool
+</string>
+
+    <string name="desc">Medical scientific services"\n" &amp;IT solutions</string>
+    <string name="title">44 Mohy Aldien Abu El ezz –"\n"Doki – Giza</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    tools:context=".fragments.AboutUsFragment"
+    android:orientation="vertical"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        >
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:src="@drawable/first"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="V 1.0"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="23dp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:layout_marginLeft="50dp"
+            />
+    </LinearLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Powered by"
+        android:gravity="center"
+        android:textSize="23dp"
+        android:textColor="#000"
+        android:textStyle="normal"
+        android:layout_marginLeft="30dp"
+        />
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/about_us"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/desc"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:textStyle="normal"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:textStyle="normal"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="info@marvelwall.com"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="#3bb5f5"
+        android:textStyle="normal"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+20 102 654 5366"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:textStyle="normal"
+        android:layout_gravity="center"
+        android:layout_marginTop="5dp"
+        />
+</LinearLayout>
